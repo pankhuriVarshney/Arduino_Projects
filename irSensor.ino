@@ -43,8 +43,4 @@ void leftTurn()
   Motor1.run(BACKWARD);
   Motor2.setSpeed(120);
   Motor2.run(FORWARD);
- // Motor3.setSpeed(120);
-  //Motor3.run(FORWARD);
- // Motor4.setSpeed(120);
-  //Motor4.run(FORWARD);
 }
